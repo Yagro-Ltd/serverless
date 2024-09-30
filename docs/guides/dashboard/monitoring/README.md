@@ -104,6 +104,7 @@ Serverless Framework's Monitoring & Observability features currently support the
 - python3.9
 - python3.10
 - python3.11
+- python3.12
 
 ## Supported AWS Regions
 
